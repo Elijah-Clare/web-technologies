@@ -23,7 +23,7 @@
   background-color: #111111;
 }
 
-#header {
+#header h1, p{
   background-color: grey;
   text-align: center;
   text-decoration: underline;
