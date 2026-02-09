@@ -23,13 +23,12 @@
   background-color: #111111;
 }
 
-.header {
-  background-color: lightgrey;
-  text-align: center;
-  
-}
-
 body {
   background-color: whitesmoke;
   font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+  background-color: lightgrey;
+  text-align: center;
 }
