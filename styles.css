@@ -23,10 +23,10 @@
   background-color: #111111;
 }
 
-#header h1 {
+.header {
   background-color: lightgrey;
   text-align: center;
-  text-decoration: underline;
+  
 }
 
 body {
