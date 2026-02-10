@@ -46,3 +46,12 @@ th, td {
   text-align: center;
   text-decoration: underline;
 }
+
+.section {
+  background-color: #a6c6f9;
+  border-bottom: 5px solid black;
+}
+
+#footer {
+  margin-bottom: 15px;
+}
