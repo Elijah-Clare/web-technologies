@@ -1,4 +1,4 @@
-/*Style using float*/
+/*Style for the navbar on both ola1 and ola2*/
 #navbar ul {
   list-style-type: none;
   margin: 0;
@@ -23,21 +23,25 @@
   background-color: #111111;
 }
 
+/* Makes all text on the page in times new roman with the page in whitesmoke */
 body {
   background-color: whitesmoke;
   font-family: 'Times New Roman', Times, serif;
 }
 
+/* To differentiate the header from the rest of the page */
 .header {
   background-color: lightgrey;
   text-align: center;
   margin-top: -21px;
 }
 
+/* Cleaning and formatting the table headers and data */
 th, td {
   padding-right: 10px;
 }
 
+/* Making the school name stand out */
 .school {
   text-align: center;
   text-decoration: underline;
