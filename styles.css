@@ -59,3 +59,7 @@ th, td {
 #footer {
   margin-bottom: 15px;
 }
+
+#credits {
+  border-bottom: 2px solid navy;
+}
