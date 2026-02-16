@@ -94,6 +94,26 @@ th, td {
 }
 
 /* Practice CSS for classPractice.html  */
-img {
+.row {
   float: right;
+}
+
+.column.side {
+  width: 25%;
+}
+
+.column.main {
+  width: 75%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column.side, .column.main {
+    width: 100%;
+  }
 }
