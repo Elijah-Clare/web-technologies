@@ -94,8 +94,8 @@ th, td {
 }
 
 /* Practice CSS for classPractice.html  */
-.row {
-  float: right;
+.column {
+  float: left;
 }
 
 .column.side {
