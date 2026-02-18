@@ -32,3 +32,20 @@ function showMessage() {
 }
 
 document.getElementById("myButton").addEventListener("click", showMessage);
+
+//
+let title = document.getElementById("heading");
+console.log(title.innerHTML);
+
+//
+let box = document.querySelector(".box");
+console.log(box.innerHTML);
+
+//
+function changeText() {
+    let elements = document.querySelectorAll("#title1", "#title2", "#title3");
+    elements.forEach( element => {
+        element.innerHTML = "Updated Heading";
+        element.style.color = "blue";
+    })
+}
