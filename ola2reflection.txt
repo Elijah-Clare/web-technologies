@@ -1,0 +1,14 @@
+1. Between my stage 1 outline and your final implementation, I had changed some of the 
+colors and background color to give the page a little more personality. I had also changed
+what I wanted the education section of my CV page to look like, formatting it and having it
+look more polished. Lastly, I added a list to the dropdown in the navbar, if in any case, I
+have a list of pages that I'm experimenting on.
+
+2. The hardest part to implement correctly was the dropdown on the navbar. Getting the list
+and links to work was not the problem, trying to format it and have it look clean was the
+difficult part. 
+
+3. A mistake that I ran into in this ola was setting up the styling for the dropdown. I had
+forgot to set classes for the header, body, and footer which had started change each unordered
+list that was made on the pages. All I had to do was go back to the html files and modify
+the divs to include specified classes.
